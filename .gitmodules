@@ -1,0 +1,6 @@
+[submodule "unreal/BlenderLiveLink"]
+	path = unreal/BlenderLiveLink
+	url = https://github.com/legibleguy/ue-blender-live-link-plugin.git
+[submodule "blender"]
+	path = blender
+	url = https://github.com/legibleguy/ue-blender-live-link-addon.git
